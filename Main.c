@@ -4,7 +4,6 @@
 #include <time.h>
 #include <string.h>
 
-
 void database(FILE * fPtr,char FilePath[17], char code[100][15], char name[100][100], char date[100][20], char point[100][10], int* ptr)
 {
     
@@ -166,13 +165,13 @@ void about(){
 	gotoxy(23,17);
 	printf(" + Dao Huu Duc");
 	gotoxy(23,18);
-	printf(" + Tran Nhi Hao");
+	printf("  + Tran Nhi Hao");
 	gotoxy(23,19);
-	printf(" + Tran Dang Khoa");
+	printf("   + Tran Dang Khoa");
 	gotoxy(23,20);
-	printf(" + Nguyen Minh Quan");
+	printf("    + Nguyen Minh Quan");
 	gotoxy(23,21);
-	printf(" + Nguyen Nam Hoang Long");
+	printf("     + Nguyen Nam Hoang Long");
 	
 	int color = 0;
 	

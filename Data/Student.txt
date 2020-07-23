@@ -1,0 +1,5 @@
+Code:SE150890,Name:Tran Dang Khoa,Date:25/2/02,Point:10;
+Code:SE140444,Name:Hoang Long,Date:18/12/01,Point:3.5;
+Code:SE130333,Name:Huu Duc,Date:10/7/01,Point:5;
+Code:SE120222,Name:Mina Quan,Date:29/4/01,Point:8.9;
+Code:SE110111,Name:Henry M M,Date:9/4/01,Point:0.9;
